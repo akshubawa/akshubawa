@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Akshay Negi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on [Fusion : E-Commerce Platform](https://github.com/akshubawa/Fusion-E-Commerce.git)
+- 🔭 I’m currently working on [Phisshhh : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
 
-- 🌱 I’m currently learning **Machine Learning and App Development**
+- 🌱 I’m currently learning **Machine Learning and Web Development**
 
 - 👯 I worked on a machine learning model, i.e. [AquaCheck](https://github.com/akshubawa/AquaCheck.git)
 
 - 🤝 I developed a metro routing application, i.e. [MetroMate](https://github.com/akshubawa/Metromate.git)
 
-- 👨‍💻 All of my projects are available at [LinkTree](https://linktr.ee/allaboutakshay)
+- 👨‍💻 All of my projects are available at [LinkTree](https://linktr.ee/project_contribution)
 
 - 📝 I regularly practice at [CodeChef](https://www.codechef.com/users/bawa69)
 
