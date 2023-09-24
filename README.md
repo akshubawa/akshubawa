@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshay Negi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on [Phisshhh : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
+- 🔭 I’m currently working on [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
 
 - 🌱 I’m currently learning **Machine Learning and Web Development**
 
