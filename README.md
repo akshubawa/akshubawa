@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Negi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🔭 I’m currently working on [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
+- 🎢 I'm currently working on [Flutter : Cross-platform application Development](https://github.com/akshubawa/Flutter_Project)
 
-- 🌱 I’m currently learning **Machine Learning and Web Development**
+- 🔭 I’m recently created [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
+
+- 🌱 I’m currently learning **Machine Learning and App Development**
 
 - 👯 I worked on a machine learning model, i.e. [AquaCheck](https://github.com/akshubawa/AquaCheck.git)
 
