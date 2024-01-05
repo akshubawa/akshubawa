@@ -3,7 +3,7 @@
 
 - 🎢 I'm currently working on [Flutter : Cross-platform application Development](https://github.com/akshubawa/Flutter_Project)
 
-- 🔭 I’m recently created [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
+- 🔭 I’m recently developed [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
 
 - 🌱 I’m currently learning **Machine Learning and App Development**
 
