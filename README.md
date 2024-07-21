@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay Negi</h1>
 <h3 align="center">A passionate programmer from India</h3>
 
-- 🎢 I'm currently working on [Donative: A crowdfunding platform](https://github.com/akshubawa/donative)
+- 🎢 I am currently working on [Rakshak Code: An automobile safety application](https://github.com/akshayAtDWI)
 
-- 🔭 I’m recently developed [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
+- 🎢 I recently worked on [Donative: A crowdfunding platform](https://github.com/akshubawa/donative)
+
+- 🔭 I recently developed [NotSoPhishy : Phishing Website Detection](https://github.com/akshubawa/PhishingWebsiteDetector)
 
 - 🌱 I’m currently learning **Machine Learning and App Development**
 
