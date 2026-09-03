@@ -1,24 +1,532 @@
-# 💫 About Me:
-🔭 I’m currently working on OrderIt: An e-commerce application.<br>👯 I’m looking to collaborate on Flutter Applications<br>🤝 I’m looking for help with everything for now.<br>🌱 I’m currently learning Flutter and Swift.<br>💬 Ask me about App Development, DSA and Web Development<br>⚡ Fun fact I think I am obsessed with Coding!
+<div align="center">
 
+# AKSHAY NEGI
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshunegi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-negi-86b617252) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@akshubawa70) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Akshu-BaWa-2) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/akshu-bawa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akshay_exe) 
+### Software Engineer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshubawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshubawa&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshubawa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+**Mobile · Backend · AI · Product Engineering**
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+> I build software that has to work in the real world.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshubawa&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<br>
+
+<a href="https://linkedin.com/in/akshay-negi-86b617252">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:akshaynegi0264@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://x.com/akshay_exe">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=akshubawa&style=flat-square&label=PROFILE+VIEWS" />
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akshubawa&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `whoami`
+
+I'm a Software Engineer interested in the part of software development **after the tutorial ends**.
+
+I enjoy taking a problem all the way through:
+
+```text
+Problem
+   ↓
+Requirements
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Deployment
+   ↓
+Production
+   ↓
+Iteration
+```
+
+My experience spans **mobile applications, backend systems, SaaS products, offline-first architecture, real-time synchronization, and AI-powered applications**.
+
+Currently, I work at **Prosessed.ai**, building production software across the OrderIT ecosystem and AI-powered product experiences.
+
+Outside of work, I build products independently, including **Organised Gym**, a gym management SaaS platform.
+
+---
+
+## Impact
+
+<div align="center">
+
+| 250K+ | 2B+ | 50+ | 15+ |
+|:---:|:---:|:---:|:---:|
+| API requests / day | AI-analyzed clicks / month | Global businesses | Gyms |
+
+| 10K+ | 1,000+ | 130K+ | 2× |
+|:---:|:---:|:---:|:---:|
+| App downloads | Gym members | API requests / month | Hackathon Winner |
+
+</div>
+
+---
+
+# What I've Built
+
+> Not everything I've worked on is public.
+>
+> Some of my most meaningful engineering work has been inside production systems, so this section focuses on **what I built and the engineering problems behind it**, rather than pretending everything belongs in a public repository.
+
+---
+
+## 01 · OrderIT
+
+**B2B commerce · Mobile · Offline-first systems**  
+**Prosessed.ai**
+
+OrderIT is a B2B ordering platform built for the wholesale food industry.
+
+My work here has involved building production mobile functionality and solving problems that appear when software has to operate reliably in real business environments.
+
+### The interesting problem
+
+**What happens when the user has no internet?**
+
+Instead of assuming a permanently connected device, I worked on an **offline-first order management architecture** that allows users to continue working locally and synchronize data when connectivity returns.
+
+### Architecture
+
+```text
+Flutter
+  │
+  ├── Local persistence
+  │     ├── SQLite
+  │     └── Shared Preferences
+  │
+  ├── Application state
+  │
+  ├── Backend synchronization
+  │
+  └── Production APIs
+```
+
+### Highlights
+
+- Built offline-first order management functionality
+- Implemented local persistence using SQLite and Shared Preferences
+- Supported automatic synchronization when connectivity returns
+- Worked on a hybrid local + backend data flow
+- Supported **500+ daily order updates**
+- Worked across requirements, development, deployment and maintenance
+- Contributed to production systems handling **250K+ API requests/day**
+
+---
+
+## 02 · OrderIT Internal
+
+**Internal operations · Fulfillment · Logistics**  
+**Prosessed.ai**
+
+> **OrderIT Internal is a separate application from OrderIT.**
+
+It is an internal operations platform designed to streamline:
+
+- Warehouse picking
+- Delivery execution
+- Employee attendance
+- Operational analytics
+- Fulfillment workflows
+
+The application acts as an operational backbone for **fulfillment teams, drivers and managers**.
+
+### Engineering focus
+
+```text
+Operational workflows
+        +
+Mobile application
+        +
+Backend services
+        +
+Real-time operational visibility
+        +
+Accountability
+```
+
+I developed **OrderIT Internal from the ground up**, contributing to the application used to support operations across **50+ global food wholesalers and manufacturers**.
+
+The interesting part wasn't simply building screens.
+
+It was translating operational requirements into software that teams could actually use as part of their daily workflow.
+
+---
+
+## 03 · Jerry AI
+
+**AI-powered product experience**  
+**Prosessed.ai**
+
+Jerry AI is an **LLM-powered chatbot** integrated into the product ecosystem.
+
+I worked on the frontend experience and AI workflow integration.
+
+### Stack
+
+`Flutter` · `LangGraph` · `LangChain` · `Gemini`
+
+### Workflow
+
+```text
+User
+ │
+ ▼
+Flutter Application
+ │
+ ▼
+AI Workflow
+ │
+ ├── LangGraph
+ ├── LangChain
+ └── Gemini
+ │
+ ▼
+Response
+```
+
+The work combines traditional application engineering with **LLM-powered workflows**.
+
+---
+
+## 04 · TrackOG
+
+**AI-powered performance marketing**  
+**Digital Work India**
+
+> **TrackOG is a completely separate product from OrderIT.**
+
+I contributed reusable Flutter modules to the platform.
+
+TrackOG operates at significant scale, processing **2B+ AI-analyzed clicks per month**.
+
+### What I worked on
+
+- Reusable Flutter modules
+- Mobile application development
+- Product-scale frontend engineering
+- Integration with large backend systems
+
+---
+
+## 05 · Organised Gym
+
+**SaaS · Product Engineering · Backend**  
+**Independent Product**
+
+Organised Gym is a gym management SaaS platform I designed and built around real operational requirements.
+
+This is one of the projects where I have worked across almost the entire product lifecycle.
+
+### From idea to production
+
+```text
+Product Requirements
+        ↓
+System Design
+        ↓
+Database Design
+        ↓
+Backend APIs
+        ↓
+Flutter Application
+        ↓
+Authentication
+        ↓
+Deployment
+        ↓
+Production
+```
+
+### Stack
+
+`Flutter` · `FastAPI` · `PostgreSQL` · `AWS`
+
+### What I built
+
+- Backend architecture
+- Database schema
+- REST APIs
+- JWT authentication
+- Flutter application
+- BLoC-based application architecture
+- AWS deployment
+- Railway deployment
+
+### Current scale
+
+| Metric | Scale |
+|---|---:|
+| Gyms | **15+** |
+| Members | **1,000+** |
+| API requests | **130K+ / month** |
+
+> The goal wasn't to build another demo CRUD application.
+>
+> It was to build something that gyms could actually use to run their operations.
+
+---
+
+## 06 · Pruddy
+
+**Gamified self-care · iOS**
+
+`Flutter` · `Firebase` · `Clean Architecture`
+
+Built and launched a gamified self-care iOS application with a coin-based rewards system designed to encourage engagement.
+
+### Engineering focus
+
+- Flutter application development
+- Firebase integration
+- Clean Architecture
+- UI rendering
+- Animation performance
+
+**Result:** improved animation performance and reduced animation jank by **40%**.
+
+---
+
+## 07 · RakshakCode
+
+**Emergency communication · Mobile**
+
+`Flutter` · `QR` · `Video Calling`
+
+Built RakshakCode from scratch around emergency communication and vehicle identification.
+
+### Features
+
+- QR-based emergency video calling
+- Instant vehicle identification
+- Reusable Flutter modules
+
+**Result:** **10K+ app downloads**
+
+---
+
+# Engineering
+
+> I don't believe architecture should exist just to make a project look sophisticated.
+>
+> I care about architecture when **it solves an actual problem**.
+
+### Offline-first systems
+
+Designing applications that remain useful when connectivity is unreliable.
+
+### State & synchronization
+
+Thinking about where data lives, which state is authoritative, and how local and backend state converge.
+
+### Application architecture
+
+Using patterns such as **BLoC, Clean Architecture and MVVM** when they make software easier to maintain and evolve.
+
+### Backend systems
+
+Designing APIs and data models around real product requirements, not isolated endpoints.
+
+### Product engineering
+
+Understanding the feature beyond the ticket:
+
+```text
+Why does this exist?
+       ↓
+Who uses it?
+       ↓
+What can go wrong?
+       ↓
+How should it behave?
+       ↓
+How do we know it works?
+       ↓
+How does it behave in production?
+```
+
+---
+
+# Stack
+
+<div align="center">
+
+| Area | Technologies |
+|:---|:---|
+| **Languages** | Dart · Python · Java · C++ · JavaScript |
+| **Mobile** | Flutter · Android · iOS |
+| **Backend** | FastAPI · Flask · REST APIs · JWT |
+| **Architecture** | BLoC · Clean Architecture · MVVM · High-Level Design |
+| **Databases** | PostgreSQL · SQLite · Hive |
+| **Cloud** | AWS · Firebase · Railway · Supabase · Azure |
+| **AI** | LangChain · LangGraph · Gemini |
+| **Tools** | Git · GitHub · Postman · Jira · Figma · Notion |
+
+</div>
+
+---
+
+# Timeline
+
+```text
+2024
+│
+├── Digital Work India
+│   │
+│   ├── RakshakCode
+│   │   └── Emergency communication · 10K+ downloads
+│   │
+│   └── TrackOG
+│       └── AI-powered performance marketing · 2B+ AI-analyzed clicks / month
+│
+│
+2025
+│
+├── Prosessed.ai
+│   └── Software Engineer Intern
+│       ├── Flutter
+│       ├── BLoC
+│       ├── Clean Architecture
+│       ├── Hybrid local + backend synchronization
+│       └── 30+ application screens
+│
+│
+2026
+│
+└── Prosessed.ai
+    └── Software Engineer · Mobile
+        │
+        ├── OrderIT
+        │   ├── Offline-first architecture
+        │   ├── Local persistence
+        │   ├── Synchronization
+        │   └── Production APIs
+        │
+        ├── OrderIT Internal
+        │   └── Internal operations platform
+        │
+        └── Jerry AI
+            ├── LangGraph
+            ├── LangChain
+            └── Gemini
+```
+
+---
+
+# What I Enjoy
+
+```text
+                    BUILDING
+                       │
+           ┌───────────┼───────────┐
+           │           │           │
+        MOBILE      BACKEND        AI
+           │           │           │
+           └───────────┼───────────┘
+                       │
+                      SAAS
+                       │
+                       ▼
+                 REAL PROBLEMS
+                       │
+                       ▼
+                  REAL USERS
+                       │
+                       ▼
+                   PRODUCTION
+```
+
+I particularly enjoy problems where the answer isn't just:
+
+> **"Build another screen."**
+
+but instead:
+
+> **"How should this system actually work?"**
+
+---
+
+# GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akshubawa&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshubawa&layout=compact&hide_border=true&langs_count=8" height="165" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=akshubawa&hide_border=true" />
+
+</div>
+
+---
+
+# Beyond Code
+
+## 2× Hackathon Winner
+
+I enjoy hackathons because they compress the entire product-building process into a few hours or days.
+
+You start with:
+
+**A problem**
+
+and end with:
+
+**Something people can actually interact with.**
+
+The constraint is part of the fun.
+
+---
+
+# Currently
+
+### Software Engineer @ Prosessed.ai
+
+Working across:
+
+`Flutter` · `Production Systems` · `Backend APIs` · `AI`
+
+Currently interested in going deeper into:
+
+- System design
+- Scalable application architecture
+- AI-powered products
+- Distributed and offline-first systems
+- Building products end-to-end
+
+---
+
+# Let's Connect
+
+I'm always interested in interesting products, difficult engineering problems, and people who enjoy building things.
+
+If you're working on something around **mobile, backend, AI or SaaS**, feel free to reach out.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/akshay-negi-86b617252">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://x.com/akshay_exe">X</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:akshaynegi0264@gmail.com">Email</a>
+
+<br><br>
+
+### Build things. Ship them. Learn from production.
+
+</div>
